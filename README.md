@@ -1,4 +1,5 @@
 # llm.nvim
+eshaan32 version
 
 A neovim plugin for no frills LLM-assisted programming.
 
